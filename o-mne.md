@@ -6,7 +6,29 @@ permalink: /o-mne/
 
 Tady napiš něco o sobě nebo o svém blogu!
 
----
+## Toto je nadpis
+
+![pejsek](https://www.petmd.com/sites/default/files/petmd-puppy-weight.jpg)
+
+```
+Tohle je kód
+```
+
+```html
+<html><head>Ahoj</head></html>
+```
+
+Toto je code v odstavci `code`.
+- toto
+- je
+- bodový
+- zoznam
+
+
+1. Toto
+1. je
+1. číslovaný
+1. zoznam
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
